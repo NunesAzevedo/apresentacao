@@ -1,4 +1,6 @@
-![Capa Linkedin](https://github.com/NunesAzevedo/apresentacao/assets/134641049/e11569df-23c9-461a-ad6c-d836f40a08b9)# Welcome to My Personal GitHub Profile!
+![Capa Linkedin](https://github.com/NunesAzevedo/apresentacao/assets/134641049/e11569df-23c9-461a-ad6c-d836f40a08b9)
+
+# Welcome to My Personal GitHub Profile!
 
 Hello, there!
 
