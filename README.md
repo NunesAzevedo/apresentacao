@@ -1,4 +1,4 @@
-# Welcome to My Personal GitHub Profile!
+![Capa Linkedin](https://github.com/NunesAzevedo/apresentacao/assets/134641049/e11569df-23c9-461a-ad6c-d836f40a08b9)# Welcome to My Personal GitHub Profile!
 
 Hello, there!
 
@@ -6,7 +6,7 @@ Here I'll talk a little about myself and a few projects that I've been involved 
 
 ## About Me
 
-I'm a Computer Engineering student at the University of São Paulo - São Carlos campus and I have a huge interest in both software development and electronic engineering.
+I'm a Computer Engineering student at the Universidade de São Paulo - São Carlos campus and I have a huge interest in both software development and electronic engineering.
 
 
 ## A few projects at USP
